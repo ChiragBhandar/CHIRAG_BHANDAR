@@ -1,31 +1,34 @@
-# 👋 Hello, I'm Chirag Bhandar
 
-### 🚀 Frontend Developer | Student
+# 👋 Hi, I'm Chirag Bhandar  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Frontend+Developer;React+%2B+Tailwind+Enthusiast;Building+Modern+Web+UIs)](https://git.io/typing-svg)
 
----
 
-#### 💡 Skills & Technologies
-
-- **Languages:** HTML, CSS, JavaScript, C, C++, Python  
-- **Frameworks:** React  
-- **Design:** Figma, Framer Motion
+🚀 Passionate **Frontend Developer** from **DTU**, skilled in crafting modern, responsive, and user-friendly web applications.  
+I love turning ideas into reality using clean code and creative UI/UX design.  
 
 ---
 
-#### 🏆 Featured Project
-
-- [**My-Portfolio**](https://github.com/ChiragBhandar/My-Portfolio)  
-  <sub>Showcasing my work, skills, and passion for web development.</sub>
-
----
-
-#### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Bhandar-blue?logo=linkedin)](https://www.linkedin.com/in/chirag-bhandar)
-[![GitHub](https://img.shields.io/badge/GitHub-ChiragBhandar-black?logo=github)](https://github.com/ChiragBhandar)
-[![Instagram](https://img.shields.io/badge/Instagram-chiiragg__12-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/chiiragg_12/)
-[![Email](https://img.shields.io/badge/Email-chirag0space@gmail.com-red?logo=gmail)](mailto:chirag0space@gmail.com)
+### 💻 Tech Stack
+🧩 **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, Framer-Motion  
+⚙️ **Tools:** VS Code, Git, GitHub, Figma, Vite, npm  
+☁️ **Programming Languages:** C , C++ , Python  
 
 ---
 
-> Passionate about building interactive UIs, writing clean code, and turning ideas into reality. Always learning, always creating.
+### 🧠 About Me
+- 🎓 Pursuing **B.Tech in IT** at **Delhi Technological University (DTU)**
+- 💡 Always curious about emerging technologies and creative problem-solving  
+- 💼 Building projects to enhance my real-world development skills  
+
+---
+
+### 📫 Connect With Me  
+<p align="left">
+  <a href="mailto:chirag0space@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/chiragbhadar](https://www.linkedin.com/in/chirag-bhandar)"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ChiragBhandar"><img src="https://img.shields.io/badge/Github-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ *“Building the future, one component at a time.”*
