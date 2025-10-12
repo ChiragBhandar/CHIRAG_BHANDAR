@@ -9,7 +9,7 @@ I love turning ideas into reality using clean code and creative UI/UX design.
 ---
 
 ### 💻 Tech Stack
-🧩 **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, Framer-Motion  
+🧩 **Frontend:** Next.js, React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, Framer-Motion  
 ⚙️ **Tools:** VS Code, Git, GitHub, Figma, Vite, npm  
 ☁️ **Programming Languages:** C , C++ , Python  
 
