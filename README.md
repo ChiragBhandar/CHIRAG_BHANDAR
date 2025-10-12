@@ -1,6 +1,7 @@
 
-# 👋 Hi, I'm Chirag Bhandar  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Frontend+Developer;React+%2B+Tailwind+Enthusiast;Building+Modern+Web+UIs)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Chirag+Bhandar!&font=Fira+Code&weight=800)](https://git.io/typing-svg)
+
 
 
 🚀 Passionate **Frontend Developer** from **DTU**, skilled in crafting modern, responsive, and user-friendly web applications.  
